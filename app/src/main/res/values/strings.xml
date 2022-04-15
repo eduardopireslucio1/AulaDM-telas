@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tela</string>
+    <string name="voltar_para_o_menu">Voltar para o menu</string>
+    <string name="eduardo_pires">Eduardo Pires</string>
+    <string name="idade">Idade</string>
+    <string name="profiss_o">Profissão</string>
+    <string name="saiury_sumi">Saiury Sumi</string>
+    <string name="_21">21</string>
+    <string name="programador">Programador</string>
+    <string name="_19">19</string>
+    <string name="dentista">Dentista</string>
+    <string name="menu">Menu</string>
+</resources>
